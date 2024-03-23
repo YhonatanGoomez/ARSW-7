@@ -1,0 +1,36 @@
+.container{
+    justify-content: left;
+    margin-left: 40px;
+    margin-top: 20px;
+    max-width: 97%;
+}
+
+.table{
+    max-width: 40%;
+    margin-right: 10%;
+
+}
+
+.t1{
+    min-width: 50%
+}
+
+.t2{
+    min-width: 50%
+}
+
+.t3{
+    min-width: 100%
+}
+
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 97%;
+
+}
+
+.classCanvas{
+    width: 50%;
+    height: 650;
+}
